@@ -1,0 +1,13 @@
+Names are random, constructed from real first and last names. Company names are real, but are randomized along with street addresses and do not represent actual locations.
+
+City, County, State/Province, and ZIP/Postal are correct for each record.
+
+Phone and fax numbers are random, but the area code and exchange for each are correct for their location.
+
+Email and Web addresses are fake but properly formatted for their country.
+
+Records are in random order and cover the countries with a more or less even distribution.
+
+Import-ready CSV files, no weird characters, escaped characters, or anything else funky to screw things up.
+
+This is fake data — not actual customers or businesses.
